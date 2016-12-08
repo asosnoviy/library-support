@@ -1,0 +1,214 @@
+{
+    "cmdline": {
+        "name": "cmdline",
+        "description": "",
+        "version": "0.4.1",
+        "dependencies": [],
+        "avalibleversions": {
+            "0.2.1": {},
+            "0.3.1": {},
+            "0.4.1": {}
+        }
+    },
+    "opm": {
+        "name": "opm",
+        "description": "",
+        "version": "0.6.1",
+        "dependencies": [],
+        "avalibleversions": {
+            "0.2.1": {},
+            "0.3.1": {},
+            "0.4.1": {},
+            "0.5.1": {},
+            "0.6.0": {},
+            "0.6.1": {},
+            "0.2.2": {}
+        }
+    },
+    "1bdd": {
+        "name": "1bdd",
+        "description": "",
+        "version": "1.2",
+        "dependencies": [],
+        "avalibleversions": {
+            "1.2": {}
+        }
+    },
+    "1testrunner": {
+        "name": "1testrunner",
+        "description": "",
+        "version": "1.2",
+        "dependencies": [],
+        "avalibleversions": {
+            "1.0": {},
+            "1.1": {},
+            "1.2": {}
+        }
+    },
+    "asserts": {
+        "name": "asserts",
+        "description": "",
+        "version": "0.3.1",
+        "dependencies": [],
+        "avalibleversions": {
+            "0.2.1": {},
+            "0.3.1": {}
+        }
+    },
+    "deployka": {
+        "name": "deployka",
+        "description": "",
+        "version": "0.1.1",
+        "dependencies": [],
+        "avalibleversions": {
+            "0.1.1": {}
+        }
+    },
+    "fs": {
+        "name": "fs",
+        "description": "",
+        "version": "0.3",
+        "dependencies": [],
+        "avalibleversions": {
+            "0.3": {}
+        }
+    },
+    "gitrunner": {
+        "name": "gitrunner",
+        "description": "",
+        "version": "1.0.0",
+        "dependencies": [],
+        "avalibleversions": {
+            "1.0.0": {}
+        }
+    },
+    "gitsync": {
+        "name": "gitsync",
+        "description": "",
+        "version": "0.5",
+        "dependencies": [],
+        "avalibleversions": {
+            "0.2.1": {},
+            "0.3.3": {},
+            "0.4.1": {},
+            "0.4.2": {},
+            "0.5": {}
+        }
+    },
+    "json": {
+        "name": "json",
+        "description": "",
+        "version": "0.2.1",
+        "dependencies": [],
+        "avalibleversions": {
+            "0.2.1": {}
+        }
+    },
+    "logos": {
+        "name": "logos",
+        "description": "",
+        "version": "0.4.1",
+        "dependencies": [],
+        "avalibleversions": {
+            "0.2.1": {},
+            "0.3.1": {},
+            "0.4.1": {}
+        }
+    },
+    "messenger": {
+        "name": "messenger",
+        "description": "",
+        "version": "1.0.2",
+        "dependencies": [],
+        "avalibleversions": {
+            "1.0.0": {},
+            "1.0.1": {},
+            "1.0.2": {}
+        }
+    },
+    "notify": {
+        "name": "notify",
+        "description": "",
+        "version": "0.1.0",
+        "dependencies": [],
+        "avalibleversions": {
+            "0.1.0": {}
+        }
+    },
+    "packman": {
+        "name": "packman",
+        "description": "",
+        "version": "0.3",
+        "dependencies": [],
+        "avalibleversions": {
+            "0.3": {}
+        }
+    },
+    "ParserFileV8i": {
+        "name": "ParserFileV8i",
+        "description": "",
+        "version": "0.0.1",
+        "dependencies": [],
+        "avalibleversions": {
+            "0.0.1": {}
+        }
+    },
+    "precommit1c": {
+        "name": "precommit1c",
+        "description": "",
+        "version": "2.0.6",
+        "dependencies": [],
+        "avalibleversions": {
+            "2.0.5": {},
+            "2.0.6": {}
+        }
+    },
+    "strings": {
+        "name": "strings",
+        "description": "",
+        "version": "0.3.1",
+        "dependencies": [],
+        "avalibleversions": {
+            "0.2.1": {},
+            "0.3.1": {}
+        }
+    },
+    "tempfiles": {
+        "name": "tempfiles",
+        "description": "",
+        "version": "0.2.1",
+        "dependencies": [],
+        "avalibleversions": {
+            "0.2.1": {}
+        }
+    },
+    "tool1cd": {
+        "name": "tool1cd",
+        "description": "",
+        "version": "0.2.1",
+        "dependencies": [],
+        "avalibleversions": {
+            "0.2.1": {}
+        }
+    },
+    "v8runner": {
+        "name": "v8runner",
+        "description": "",
+        "version": "0.4.1",
+        "dependencies": [],
+        "avalibleversions": {
+            "0.2.1": {},
+            "0.3.2": {},
+            "0.4.1": {}
+        }
+    },
+    "yadisk": {
+        "name": "yadisk",
+        "description": "",
+        "version": "1.0",
+        "dependencies": [],
+        "avalibleversions": {
+            "1.0": {}
+        }
+    }
+}
